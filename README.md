@@ -3,7 +3,7 @@
 
 1. Tutorial Link: [Computer Vision Zone](https://www.youtube.com/watch?v=brwgBf6VB0I)
 
-- 01 PoseEstimationMain.py
-	 Set dots after pose detection on frames
-- 02 PoseEstimationMain.py
-	 Set stick figures after pose detection in frames 
+- 01 PoseEstimationMain.py</br>
+	 Set dots after pose detection on frames</br>
+- 02 PoseEstimationMain.py</br>
+	 Set stick figures after pose detection in frames </br>
